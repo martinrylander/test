@@ -1,6 +1,9 @@
 test
 ====
 
+And now ... first commit in master. When working on F3 
+
+
 and now a change on master.... 
 
 this may result in a conflict ... 
